@@ -29,7 +29,7 @@ and solving real-world problems creatively.
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">🧑‍💻 Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -38,7 +38,7 @@ and solving real-world problems creatively.
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<h3 align="center">Backend Frameworks / Libraries</h3>
+<h3 align="center">⚙️ Backend Frameworks / Libraries</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaFX-000?style=for-the-badge"/>
@@ -46,7 +46,7 @@ and solving real-world problems creatively.
   <img src="https://img.shields.io/badge/REST_API-000?style=for-the-badge"/>
 </p>
 
-<h3 align="center">Frontend / GUI</h3>
+<h3 align="center">🎨 Frontend / GUI</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -54,13 +54,13 @@ and solving real-world problems creatively.
   <img src="https://img.shields.io/badge/JavaFX-000?style=for-the-badge"/>
 </p>
 
-<h3 align="center">Database / Storage</h3>
+<h3 align="center">🗄️ Database / Storage</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-<h3 align="center">Design / Visual Tools</h3>
+<h3 align="center">🖌️ Design / Visual Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe_Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe_Illustrator-000?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
@@ -68,14 +68,14 @@ and solving real-world problems creatively.
   <img src="https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
-<h3 align="center">Version Control / Tools</h3>
+<h3 align="center">🔧 Version Control / Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 
-<div align="center">
+<!--<div align="center">
 
 ```java
 if (codeWorking) {
@@ -85,7 +85,7 @@ if (codeWorking) {
 }
 // — Aksa Junaid
 ```
-</div>
+</div> -->
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
