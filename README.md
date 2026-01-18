@@ -31,43 +31,48 @@ and solving real-world problems creatively.
 
 <h3 align="center">Languages</h3>
 <p align="center">
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
+
 <h3 align="center">Backend Frameworks / Libraries</h3>
 <p align="center">
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-000?style=for-the-badge)
-![JDBC](https://img.shields.io/badge/JDBC-000?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge)
+  <img src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaFX-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JDBC-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_API-000?style=for-the-badge"/>
 </p>
+
 <h3 align="center">Frontend / GUI</h3>
 <p align="center">
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-000?style=for-the-badge)
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaFX-000?style=for-the-badge"/>
 </p>
+
 <h3 align="center">Database / Storage</h3>
 <p align="center">
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white)
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
+
 <h3 align="center">Design / Visual Tools</h3>
 <p align="center">
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-000?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=white)
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-000?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
+
 <h3 align="center">Version Control / Tools</h3>
 <p align="center">
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000?style=for-the-badge&logo=intellijidea&logoColor=white)
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 
 <div align="center">
