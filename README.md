@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=AksaMJML&theme=dark&hide_border=false)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=AksaMJML&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=AksaMJML&theme=dark&hide_border=false&v=2)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AksaMJML&theme=dark&layout=compact)
 
