@@ -97,6 +97,11 @@ if (codeWorking) {
   <img src="https://streak-stats.demolab.com?user=AksaMJML&theme=dark"/>
 </p>
 
+<div align="center">
+  <h3>Activity & Contributions</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AksaMJML&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&theme=github-dark" width="100%" alt="Contribution Graph" />
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AksaMJML&theme=dark&layout=compact"/>
 </p>
