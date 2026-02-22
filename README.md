@@ -1,6 +1,6 @@
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture></p>
 <h1 align="center">Hi 👋🏻, I'm Aksa Junaid</h1>
-<p align="center">I love creating new things ⚡</p>
-<p align="center">Turning imagination into reality 🚀</p>
+<p align="center">I love creating new things ⚡ Turning imagination into reality 🚀</p>
 
 <h2 align="center">🌐 Socials</h2>
 <p align="center">
@@ -27,95 +27,29 @@ I enjoy working with <strong>Java, Spring Boot, HTML, JS, and MySQL</strong>
 and solving real-world problems creatively.
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
-
-<h3 align="center">🧑‍💻 Languages</h3>
+<h3 align="center">🧑‍💻 Languages and Tools</h3>   
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<h3 align="center">⚙️ Backend Frameworks / Libraries</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaFX-000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JDBC-000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST_API-000?style=for-the-badge"/>
-</p>
-
-<h3 align="center">🎨 Frontend / GUI</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaFX-000?style=for-the-badge"/>
-</p>
-
-<h3 align="center">🗄️ Database / Storage</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-<h3 align="center">🖌️ Design / Visual Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-000?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
-
-<h3 align="center">🔧 Version Control / Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-</p>
-
-<!--<div align="center">
-
-```java
-if (codeWorking) {
-    while (codeQuality < perfectCode) {
-        codeQuality++;
-    }
-}
-// — Aksa Junaid
-```
-</div> -->
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AksaMJML&theme=dark"/>
+<img width="500px"  src="https://skillicons.dev/icons?i=java,js,py,html,css,react,nodejs,spring,postgres,mysql,mongo,git,vscode,postman,tailwind,bootstrap,figma,ai,ps,discord&perline=10"  />
 </p>
 
 <h2 align="center">🔥 GitHub Streak</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AksaMJML&theme=dark"/>
+  <img src="https://streak-stats.demolab.com?user=AksaMJML&theme=dark&ring=005F6A&fire=005F6A&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=FFFFFF"/>
 </p>
 
 <div align="center">
-  <h3>Activity & Contributions</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AksaMJML&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&theme=github-dark" width="100%" alt="Contribution Graph" />
-</div>
+  <!-- <h3>Activity & Contributions</h3> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AksaMJML&custom_title=Contribution%20Graph&bg_color=0D1117&color=005F6A&line=005F6A&point=FFFFFF&area_color=005F6A&area=true&hide_border=true&theme=github-dark" width="100%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AksaMJML&theme=dark&layout=compact"/>
-</p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AksaMJML&theme=radical&no-bg=true"/>
-</p>
 
 <h2 align="center">⭐ Visitors</h2>
 <p align="center">
-  <img src="https://visitcountpro.netlify.app/api?id=AksaMJML&pretty=true"/>
+  <img src="https://visitcountpro.netlify.app/api?id=AksaMJML&pretty=true&bg_color=0D1117&title_color=005F6A&icon_color=005F6A&text_color=FFFFFF"/>
 </p>
 
-<p align="center"><em>"Consistency beats talent when talent doesn’t stay consistent."</em></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005F6A&height=65&section=footer"/>
+</p>
 
 
